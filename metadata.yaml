@@ -1,0 +1,38 @@
+_repo: Nursing-as-CaringA-Model-for-Transforming-Practice_42988
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pennell, Shawn
+    gutenberg_agent_id: '41976'
+    url: http://www.gutenberg.org/2009/agents/41976
+covers:
+- cover_type: archival
+  image_path: 42988-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Boykin, Anne
+    gutenberg_agent_id: '41974'
+    url: http://www.gutenberg.org/2009/agents/41974
+  - agent_name: Schoenhofer, Savina O'Bryan
+    alias: Schoenhofer, Savina O.
+    gutenberg_agent_id: '41975'
+    url: http://www.gutenberg.org/2009/agents/41975
+description: ''
+gutenberg_issued: '2013-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42988'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Nursing Care'
+- !lcc 'RT'
+- !lcsh 'Nursing -- Philosophy'
+- !lcsh 'Nursing models'
+- !lcsh 'Nursing Theory'
+- !lcsh 'Empathy'
+- !lcsh 'Caring'
+title: 'Nursing as Caring: A Model for Transforming Practice'
+url: http://www.gutenberg.org/ebooks/42988
