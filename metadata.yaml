@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41975'
     url: http://www.gutenberg.org/2009/agents/41975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42988#Nursing-as-CaringA-Model-for-Transforming-Practice
 gutenberg_issued: '2013-06-20'
 gutenberg_type: Text
 identifiers:
